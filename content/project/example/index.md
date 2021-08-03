@@ -21,7 +21,7 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "pdfs/Escaping_Saddle_Points"
+url_pdf: "pdfs/Escaping_Saddle_Points.pdf"
 url_slides: "slides/optimization/EscapingSaddlePoints_CompleteFV.pdf"
 url_video: ""
 

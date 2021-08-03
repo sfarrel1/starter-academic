@@ -22,7 +22,7 @@ links:
   - name: Link
     url: "http://computationalimaging.rice.edu/research/tunesflow/"
 url_code: ""
-url_pdf: "pdfs/Escaping_Saddle_Points"
+url_pdf: "pdfs/TunesFlow.pdf"
 url_slides: ""
 url_video: ""
 

@@ -76,4 +76,4 @@ I am a third year PhD student in Electrical and Computer Engineering at Rice Uiv
 
 I am interested in developing and testing joint communication and imaging systems in the radio frequency and millimeter wave bands. Specifically, I study distributive networked wireless imaging and its applications in the next generation of communication networks. My goal is to combine computational imaging techniques, optimization and data-driven models with wireless communication infrastructure to introduce novel sensing and security applications.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV-Sean.pdf" "newtab" >}}resumé{{< /staticref >}}.
